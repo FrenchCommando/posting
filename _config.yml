@@ -22,8 +22,8 @@ title: Posting Webpage
 email: posting@frenchcommando.com
 description: >-
   Posting Website using Jekyll
-baseurl: "/"
-url: "https://frenchcommando.github.io/posting/"
+baseurl: ""
+url: "https://frenchcommando.github.io/posting"
 twitter_username: CommandoFrench
 github_username:  FrenchCommando
 
