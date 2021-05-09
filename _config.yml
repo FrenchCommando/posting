@@ -51,3 +51,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+atom:
+  buildCommand:
+    - C:\Ruby27-x64\bin\jekyll.bat
+    - build
+    - --baseurl
+    - ''
