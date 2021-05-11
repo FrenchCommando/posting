@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "BackWheel"
+title: "BackWheel - $60"
 ---
 
 Posting for my back wheel.

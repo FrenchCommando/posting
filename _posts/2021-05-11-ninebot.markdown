@@ -1,0 +1,14 @@
+---
+layout: "post"
+title: "NineBot One- $500"
+---
+
+Bought 2 years ago on Ebay.
+Never Used.
+Hard to find anywhere but Ebay.
+
+[official-link](https://www.segway.com/ninebot-one-s1/)
+
+[craigslist-link](https://newyork.craigslist.org/mnh/ele/d/new-york-ninebot-one/7320218521.html)
+
+![useful1]({{ site.baseurl }}/assets/IMG_20210511_145043.jpg)
